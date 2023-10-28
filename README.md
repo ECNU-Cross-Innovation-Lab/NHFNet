@@ -6,6 +6,9 @@ Fusion technology is the crucial for multimodal sentiment analysis. Recent atten
 
 <img src="./assets/framework.png" style="zoom:48%;" />
 
+## Cite this article
+Ziwang Fu, Feng Liu, Qing Xu, iayin Qi, Xiangling Fu, Aimin Zhou, Zhibin Li. "NHFNET: A Non-Homogeneous Fusion Network for Multimodal Sentiment Analysis," 2022 IEEE International Conference on Multimedia and Expo (ICME), 2022, pp. 1-6, doi: 10.1109/ICME52920.2022.9859836
+
 ## Setup
 Install dependencies for CMU-MultimodalSDK
 ```bash
